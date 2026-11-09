@@ -1,0 +1,24 @@
+[project]
+name = "rag-chain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.9",
+    "faiss-cpu>=1.15.1",
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.9",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.7.6",
+    "langchain-groq>=1.1.3",
+    "langchain-openai>=1.7.4",
+    "langgraph>=1.2.20",
+    "openai>=3.46.0",
+    "pageindex>=0.4.4",
+    "pymupdf>=2.1",
+    "pypdf>=6.21.4",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.2.0",
+    "typesense>=2.1.1",
+]
