@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-community
+tavily
 pypdf
 pymupdf
 sentence-transformers
